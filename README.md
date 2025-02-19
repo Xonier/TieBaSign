@@ -19,4 +19,5 @@
 
 
 /first run setup commit ........../
-
+/暂时失效/
+/原作者https://github.com/gwtak/TieBaSign/
