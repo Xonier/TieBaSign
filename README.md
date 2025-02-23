@@ -2,7 +2,7 @@
 
 ## 今日签到状态
 
-![Baidu Tieba Auto Sign](https://github.com/xonier/TieBaSign/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
+![Baidu Tieba Auto Sign](https://github.com/Xonier/TieBaSign/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
 
 ## 使用说明
 
@@ -18,4 +18,4 @@
 4. 至此自动签到就搭建完毕了，可以再次点击`Actions`查看工作记录，如果有`Baidu Tieba Auto Sign`则说明workflow创建成功了。点击右侧记录可以查看详细签到情况。
 
 
-/first run setup commit .............../
+/first run setup commit ................/
